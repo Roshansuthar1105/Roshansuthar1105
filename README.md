@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshansuthar1105" alt="roshansuthar1105" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [roshansuthar.netlify.app](roshansuthar.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](roshansuthar.netlify.app)
 
-- 💬 Ask me about **react,js,gsap**
+- 💬 Ask me about **react,js,gsap,C,C++,Node**
 
 - 📫 How to reach me **Roshansuthar2023@gmail.com**
 
