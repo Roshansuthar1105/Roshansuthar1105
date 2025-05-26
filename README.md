@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://roshansuthar.netlify.app/)
 - 📫 How to reach me **Roshansuthar2023@gmail.com**
-- 🔭 I’m currently working on FarmSetu and Codify 
+- 🔭 I’m currently working on [FarmSetu](https://github.com/Roshansuthar1105/Farmsetu) and [Codify](https://github.com/Roshansuthar1105/Codify) 
 - 👯 I’m looking to collaborate on Codify 
 -  🌱 I’m currently learning Mern Stack 
 -  💬 Ask me about Frontend Development.
