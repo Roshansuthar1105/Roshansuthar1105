@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Update Snake
 
 on:
   schedule:
@@ -6,17 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - run: bash update_snake.sh
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_user_name: Roshansuthar1105
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Update snake animation"
